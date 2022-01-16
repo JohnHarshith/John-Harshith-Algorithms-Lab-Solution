@@ -1,6 +1,6 @@
 # John Harshith Algorithms Lab Solution
 
-## Problem Statement
+## Problem Statements
 
 Question 1 - PayMoney. processes thousands of transactions daily amounting to crores of Rupees. They also have a daily target that they must achieve. Given a list 
 of transactions done by PayMoney and a daily target, your task is to determine at which transaction PayMoney achieves the same. If the target is not achievable, 
@@ -15,10 +15,10 @@ Output : Print the minimum no of notes that you will be using to pay the net amo
 ## Problem 1 Outputs
 
 <img src="Screenshots/Problem1/TestCase1.png" alt="Sample Output" width="500" height="250"/>\
-<img src="Screenshots/Problem1/TestCase2.png" alt="Sample Output" width="500" height="250"/>\
+<img src="Screenshots/Problem1/TestCase2.png" alt="Sample Output" width="500" height="250"/>
 
 ## Problem 2 Outputs
 
 <img src="Screenshots/Problem2/TestCase1.png" alt="Sample Output" width="500" height="250"/>\
 <img src="Screenshots/Problem2/TestCase2.png" alt="Sample Output" width="500" height="250"/>\
-<img src="Screenshots/Problem2/TestCase3.png" alt="Sample Output" width="500" height="250"/>\
+<img src="Screenshots/Problem2/TestCase3.png" alt="Sample Output" width="500" height="250"/>
